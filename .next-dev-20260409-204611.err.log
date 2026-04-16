@@ -1,0 +1,114 @@
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx
+ ⨯ ./actions/crm.ts
+Error:   [31mx[0m Expression expected
+     ,-[[36;1;4mC:\Users\yo8nt\OneDrive\Documents\New project\actions\crm.ts[0m:124:1]
+ [2m121[0m |       .from("leads")
+ [2m122[0m |       .update({ status: "converted", converted_student_id: student.id })
+ [2m123[0m |       .eq("id", leadId);
+ [2m124[0m |       .eq("organization_id", currentUser.organizationId)
+     : [35;1m      ^[0m
+ [2m125[0m | 
+ [2m126[0m |     if (updateError) {
+ [2m127[0m |       return actionResult(false, updateError.message);
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./actions/crm.ts
+./components/forms/lead-form.tsx

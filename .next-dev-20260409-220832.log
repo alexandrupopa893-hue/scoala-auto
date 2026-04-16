@@ -1,0 +1,43 @@
+
+> driving-school-crm@0.1.0 dev
+> next dev --port 3003
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3003
+   - Network:      http://192.168.1.108:3003
+
+ ✓ Starting...
+ ✓ Ready in 1868ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1159ms (717 modules)
+ GET / 307 in 1683ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 3.2s (2149 modules)
+ GET /dashboard 200 in 4064ms
+ GET / 307 in 81ms
+ GET /dashboard 200 in 225ms
+ ○ Compiling /leads ...
+ ✓ Compiled /leads in 1481ms (2360 modules)
+ GET /leads 200 in 1823ms
+ GET /leads 200 in 58ms
+ GET /leads 200 in 37ms
+ ○ Compiling /students ...
+ ✓ Compiled /students in 505ms (2371 modules)
+ GET /students 200 in 735ms
+ ○ Compiling /instructors ...
+ ✓ Compiled /instructors in 583ms (2379 modules)
+ GET /instructors 200 in 746ms
+ ○ Compiling /schedule ...
+ ✓ Compiled /schedule in 856ms (2405 modules)
+ GET /schedule 200 in 1043ms
+ ○ Compiling /payments ...
+ ✓ Compiled /payments in 563ms (2416 modules)
+ GET /payments 200 in 733ms
+ POST /payments 200 in 214ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 633ms (2434 modules)
+ GET /login 200 in 798ms
+ GET /login 200 in 46ms
+ POST /login 200 in 169ms
+ GET /dashboard 200 in 191ms
+ GET /dashboard 200 in 90ms
